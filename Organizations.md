@@ -83,7 +83,7 @@ wssplot(orgkmeans)
 
 ![](Organizations_files/figure-markdown_github/unnamed-chunk-3-1.png)
 
-**The graph seems to indicate we lose gains after 4 clusters (although YOU can try also 7 clusters due to the elbow between 6-7 and compare.)**
+**The graph seems to indicate we lose gains after 4 clusters (although you can try also 7 clusters due to the elbow between 6-7 and compare.)**
 
 ``` r
 set.seed(1234)
